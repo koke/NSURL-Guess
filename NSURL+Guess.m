@@ -1,6 +1,5 @@
 //
 //  NSURL+Guess.m
-//  testurl
 //
 //  Created by Jorge Bernal on 7/12/11.
 //  Copyright 2011 Jorge Bernal. All rights reserved.
